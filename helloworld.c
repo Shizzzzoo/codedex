@@ -1,2 +1,3 @@
 git init
-git remote add origin <repository_url>
+git remote add origin 
+git branch -M main
